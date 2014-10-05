@@ -14,3 +14,7 @@ sentry[postgres]==6.4.4
 # ldap user store
 django-auth-ldap==1.2.1
 
+# Plugins
+sentry-github
+sentry-slack
+sentry-irc
